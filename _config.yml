@@ -1,17 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          "Rohan's Blog"
+description:    "Bug Bounties"
+url:            "https://rohanpagey.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Rohan Pagey
   url:          https://chester.how
-  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -32,7 +30,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       8
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
