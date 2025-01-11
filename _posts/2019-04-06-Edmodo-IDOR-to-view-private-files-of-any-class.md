@@ -1,5 +1,6 @@
 ---
 tags: bugbounty
+category: BugBounty
 ---
 
 # What is Edmodo ?
